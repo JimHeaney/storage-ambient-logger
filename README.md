@@ -9,6 +9,9 @@ Through the implementation of ultra-low power sensors and the 328P's Deep Sleep 
 
 I designed the second version of this board as part of my Weekly PCB challenge at the end of 2020. Updates include a new MCU, a better SD card slot, and circuitry to allow for automatic changeover from battery power to USB power when plugged in. 
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/storage-ambient-logger.html).
+
 ## Current Release
 Version 1.2
 
